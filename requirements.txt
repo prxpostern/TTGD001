@@ -1,0 +1,9 @@
+aiohttp
+psutil
+aria2p
+hachoir
+Pillow
+asyncio
+tgcrypto
+youtube_dl
+hurry.filesize
